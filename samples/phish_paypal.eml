@@ -1,0 +1,16 @@
+From: "PayPal Support" <support@paypa1-security.test>
+Reply-To: collect@mailbox.test
+Return-Path: <bounce@mailbox.test>
+To: victim@example.org
+Subject: URGENT: Your account has been locked
+Date: Thu, 15 Oct 2026 03:21:00 +0000
+Message-ID: <2001@paypa1-security.test>
+Authentication-Results: mx.example.org; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/plain; charset=utf-8
+
+Security alert: we noticed unusual activity on your account.
+Your account has been locked. Verify your password immediately or the
+account will be closed within 24 hours.
+
+Log in here: http://paypa1-security.test/login
+Or use our secure server: http://192.0.2.10/verify

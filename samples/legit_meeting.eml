@@ -1,0 +1,15 @@
+From: Dana Lee <dana.lee@example.com>
+To: team@example.com
+Subject: Project meeting moved to Thursday
+Date: Tue, 13 Oct 2026 10:15:00 +0000
+Message-ID: <1002@example.com>
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset=utf-8
+
+Hi all,
+
+The project meeting is now on Thursday at 2 PM. Agenda is in the shared
+folder: https://docs.example.com/projects/agenda
+
+Thanks,
+Dana

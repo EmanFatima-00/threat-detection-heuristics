@@ -1,0 +1,13 @@
+From: "Example Shop" <offers@example.com>
+To: student@example.org
+Subject: Limited time offer - act now!
+Date: Wed, 14 Oct 2026 08:00:00 +0000
+Message-ID: <1003@example.com>
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset=utf-8
+
+Limited time offer! Act now - this sale expires today.
+Browse the deals: https://shop.example.com/sale
+
+This is a legitimate marketing email. It uses urgent wording, which shows
+how heuristics can raise the score even for harmless mail.
